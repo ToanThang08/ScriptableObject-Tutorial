@@ -175,6 +175,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 359778b1e7294424a84d2b2d87bc577a,
         type: 2}
+    - target: {fileID: 114854772269584276, guid: 0b8ca2f9914b7f746b3ea1444786a63e,
+        type: 3}
+      propertyPath: OnSwordSelected
+      value: 
+      objectReference: {fileID: 11400000, guid: 7633ad78bab87594e87db5c77614f3eb,
+        type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0b8ca2f9914b7f746b3ea1444786a63e, type: 3}
 --- !u!4 &354912689 stripped
@@ -344,6 +350,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: f88454f02ac2110429ce7e3c4de53c0d,
         type: 2}
+    - target: {fileID: 114329817378986084, guid: c1005caa6941a45418635cdf0f1139ea,
+        type: 3}
+      propertyPath: OnSwordSelected
+      value: 
+      objectReference: {fileID: 11400000, guid: 1c113a9fe2f13fd4faf3f22422e4c1c7,
+        type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c1005caa6941a45418635cdf0f1139ea, type: 3}
 --- !u!4 &1314794256 stripped
@@ -438,6 +450,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: fd7e01841931abd4298ce5fadee6094b,
         type: 2}
+    - target: {fileID: 114919863713329672, guid: 5702e839c26040d42b40429b7dbb89cc,
+        type: 3}
+      propertyPath: OnSwordSelected
+      value: 
+      objectReference: {fileID: 11400000, guid: f98ee1f2b5a79d140a007e252ca13df8,
+        type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5702e839c26040d42b40429b7dbb89cc, type: 3}
 --- !u!1001 &1506613288
@@ -484,6 +502,12 @@ PrefabInstance:
       propertyPath: swordData
       value: 
       objectReference: {fileID: 11400000, guid: 12c00b67fa46c6a4cb26160659c49e91,
+        type: 2}
+    - target: {fileID: 114889108461879984, guid: dca4a46237666594aae4c02dc49e9ed3,
+        type: 3}
+      propertyPath: OnSwordSelected
+      value: 
+      objectReference: {fileID: 11400000, guid: 1dc114f2e056efe4680a3175b6db823b,
         type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dca4a46237666594aae4c02dc49e9ed3, type: 3}
@@ -544,6 +568,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 3360e02b579298c48af0f8f6aea1f020,
         type: 2}
+    - target: {fileID: 114197732231314864, guid: 52231d642efb9b54ea6b8739d77908c5,
+        type: 3}
+      propertyPath: OnSwordSelected
+      value: 
+      objectReference: {fileID: 11400000, guid: 4142d0655da85c3438fa7dfd4c7e5ec6,
+        type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 52231d642efb9b54ea6b8739d77908c5, type: 3}
 --- !u!1001 &1773880809
@@ -591,6 +621,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 16c579e4c1791ff4a8a7ed805473b14a,
         type: 2}
+    - target: {fileID: 114602543209253182, guid: 39069f295ce0e20479c06ddb8196bb35,
+        type: 3}
+      propertyPath: OnSwordSelected
+      value: 
+      objectReference: {fileID: 11400000, guid: f0358ed2216d23445ab185ca1d796a4d,
+        type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 39069f295ce0e20479c06ddb8196bb35, type: 3}
 --- !u!1001 &1882356582
@@ -637,6 +673,12 @@ PrefabInstance:
       propertyPath: swordData
       value: 
       objectReference: {fileID: 11400000, guid: 2abfdcfef2f22a642bc827ddd8d6a69d,
+        type: 2}
+    - target: {fileID: 114838149804592962, guid: b8bc53f0eae47e34db6ca6fe84e1055c,
+        type: 3}
+      propertyPath: OnSwordSelected
+      value: 
+      objectReference: {fileID: 11400000, guid: 57c1857944d31e44085362a3fc011765,
         type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b8bc53f0eae47e34db6ca6fe84e1055c, type: 3}
