@@ -123,3 +123,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 025e2b52516df7b4799b19f4617bc1b7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  OnSwordSelected: {fileID: 11400000, guid: 69a90aada0b9fcb45bc0ae28b1257913, type: 2}
