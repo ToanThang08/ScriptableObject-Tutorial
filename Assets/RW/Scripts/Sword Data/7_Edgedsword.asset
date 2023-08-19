@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dee952a4d1b1f044f9d02a6f6c301584, type: 3}
   m_Name: 7_Edgedsword
   m_EditorClassIdentifier: 
-  swordName: 
-  description: 
-  icon: {fileID: 0}
-  goldCost: 0
-  attackDamage: 0
+  swordName: Edgedsword
+  description: All around great sword
+  icon: {fileID: 21300000, guid: b99c761c39af3d8489cabb82c1b24ad0, type: 3}
+  goldCost: 300
+  attackDamage: 30

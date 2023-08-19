@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dee952a4d1b1f044f9d02a6f6c301584, type: 3}
   m_Name: 1_Longsword
   m_EditorClassIdentifier: 
-  swordName: 
-  description: 
-  icon: {fileID: 0}
-  goldCost: 0
-  attackDamage: 0
+  swordName: Longsword
+  description: All around great sword
+  icon: {fileID: 21300000, guid: 6f69a15f2a04d4f4d9785ab7e50778a6, type: 3}
+  goldCost: 300
+  attackDamage: 30
